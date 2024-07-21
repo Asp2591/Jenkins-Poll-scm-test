@@ -1,6 +1,6 @@
 ## Age wise schemes
 
-age=int(input("Enter a your age :"))
+age=50
 
 if age<19:
   print("You are not adult ")
