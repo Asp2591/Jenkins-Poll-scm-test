@@ -2,7 +2,9 @@
 
 ##Pipeline Overview / Structure:
 
-![Screenshot (299)](https://github.com/user-attachments/assets/8316c85f-f583-46b5-918f-9f44a5a4e9a3)
+![Screenshot (299)](https://github.com/user-attachments/assets/b769b3b6-a6dd-438c-861d-a81f0297fdac)
+
+
 
 ##Pipeline Steps:
 
