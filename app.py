@@ -1,6 +1,6 @@
 ## Age wise schemes
 
-age=80
+age=60
 
 if age<19:
   print("You are not adult ")
